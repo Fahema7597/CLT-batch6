@@ -13,6 +13,7 @@ public class LoginController {
 	User refUser;  //User is a POJO (Plain Old Java Class
 	public void userLoginController()
 	{
+		userInput();
 	}
 	
 	void userInput()
